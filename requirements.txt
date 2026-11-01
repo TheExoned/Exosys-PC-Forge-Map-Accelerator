@@ -1,0 +1,6 @@
+﻿numpy
+Pillow
+requests
+numba
+flet==0.25.2
+flet-desktop==0.25.2
